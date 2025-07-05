@@ -1,0 +1,10 @@
+### Login Request
+POST http://localhost:4004/auth/api/v1/auth/login
+Content-Type: application/json
+Accept: application/json
+
+{
+  "email": "user@example1.com",
+  "password": "strongPassword123"
+}
+

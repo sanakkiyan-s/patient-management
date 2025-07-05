@@ -1,0 +1,7 @@
+### GET  request to fetch all users admin-only
+GET http://localhost:4009/api/users/all
+Authorization: Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ1c2VyQGV4YW1wbGUxLmNvbSIsInJvbGVzIjpbIlJPTEVfVVNFUiJdLCJpYXQiOjE3NTE2NTU0MjMsImV4cCI6MTc1MTY1OTAyM30.F4VJbLJcUgVALAQTZn9ln-V1jfk_OctUvlz0axFYvUl6bPPfo6N1YYDqeAU64-6B65cEMY9pq0tNIYMZ2AGgog
+
+
+
+###

@@ -1,0 +1,10 @@
+### Create a new patient
+PUT http://localhost:4000/api/patients/223e4567-e89b-12d3-a456-426614174014
+content-type: application/json
+
+{
+  "name": "sana-updated",
+  "email": "sana@email.com",
+  "address": "main road",
+  "dateOfBirth": "1995-09-09"
+}

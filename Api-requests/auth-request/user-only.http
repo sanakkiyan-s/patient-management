@@ -1,0 +1,7 @@
+### GET request to fetch all users user-only
+GET http://localhost:4004/auth/api/users/me
+Authorization: Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ1c2VyQGV4YW1wbGUxLmNvbSIsInJvbGVzIjpbIlJPTEVfVVNFUiJdLCJpYXQiOjE3NTE3Mzk4MzgsImV4cCI6MTc1MTc0MzQzOH0.Cr9eQoJJJMgBbQ0R0XuBAQOuD2prpKRPQqqLt4BZxB-l-4v2IHSApP8dEG55eyjIDK5bZcmN-e1IFEaXqlkvSA
+
+
+
+###
